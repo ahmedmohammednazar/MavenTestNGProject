@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T14:04:08 EST" name="Default suite" finished-at="2022-12-15T14:04:09 EST" duration-ms="1341">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T14:04:08 EST" name="Default test" finished-at="2022-12-15T14:04:09 EST" duration-ms="1341">
+      <class name="petStoreApiTests.PetStoreApiTest">
+        <test-method signature="getRequestById()[pri:0, instance:petStoreApiTests.PetStoreApiTest@19bb07ed]" started-at="2022-12-15T14:04:08 EST" name="getRequestById" finished-at="2022-12-15T14:04:09 EST" duration-ms="1316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequestById -->
+      </class> <!-- petStoreApiTests.PetStoreApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
